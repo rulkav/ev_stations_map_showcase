@@ -19,7 +19,10 @@
 [Stations Map App](https://volkhov-map.web.app)
 
 
-https://user-images.githubusercontent.com/42183561/225020133-7fe7f918-8110-4b51-8c16-a4fac0bca132.mp4
+
+https://user-images.githubusercontent.com/47982610/232339503-c5f8d86d-30ee-47c0-b6ea-965a67024775.mp4
+
+
 
 
 ## How to run the app
